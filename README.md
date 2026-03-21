@@ -28,11 +28,4 @@ They are of particular interest because they may:
 ---
 
 ## Project Structure
-PBHCapstone/
-│── src/                # Core simulation / model code
-│── notebooks/          # Jupyter notebooks for exploration & visualisation
-│── data/               # Input datasets or generated data
-│── results/            # Figures, plots, and outputs
-│── report/             # LaTeX / written report
-│── README.md           # Project overview
-│── requirements.txt    # Dependencies
+
