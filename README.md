@@ -27,5 +27,7 @@ They are of particular interest because they may:
 
 ---
 
-## Project Structure
+##  Acknowledgements
+
+- https://github.com/albert-escriva/SPriBHoS
 
