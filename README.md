@@ -1,4 +1,4 @@
-# 🌌 Primordial Black Hole Capstone Project (PBHCapstone)
+# Primordial Black Hole Capstone Project (PBHCapstone)
 
 ## Overview
 This project investigates **primordial black holes (PBHs)** — hypothetical black holes formed in the early universe shortly after the Big Bang.  
