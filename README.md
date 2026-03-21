@@ -13,7 +13,7 @@ The aim of this project is to explore the **formation, evolution, and observable
 - Investigate PBHs as **dark matter candidates**  
 - Simulate relevant physical systems (e.g. mass functions, evaporation, dynamics)  
 - Analyse observational constraints from astrophysical data  
-- Develop clear and informative visualisations  
+- Develop clear, original and informative visualisations  
 
 ---
 
