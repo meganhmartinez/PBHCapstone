@@ -4,15 +4,14 @@
 This project investigates **primordial black holes (PBHs)** — hypothetical black holes formed in the early universe shortly after the Big Bang.  
 Unlike stellar black holes, PBHs can span a wide range of masses and may play a role in explaining **dark matter** and early structure formation.
 
-The aim of this project is to explore the **formation, evolution, and observable consequences** of PBHs through analytical methods and computational modelling.
+The aim of this project is to explore the **formation, evolution, and consequences** of PBHs through analytical methods and computational modelling.
 
 ---
 
 ## Objectives
 - Model the **formation mechanisms** of primordial black holes  
-- Investigate PBHs as **dark matter candidates**  
-- Simulate relevant physical systems (e.g. mass functions, evaporation, dynamics)  
-- Analyse observational constraints from astrophysical data  
+- Investigate the threshold forming a boundary between perturbation dispersion and collapse
+- Simulate relevant physical systems (e.g. mass functions, density, velocity dynamics)  
 - Develop clear, original and informative visualisations  
 
 ---
