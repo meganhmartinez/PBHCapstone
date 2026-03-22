@@ -44,8 +44,6 @@ The repository is sectioned as follows:
 
 [`Sonification`](Sonification/) folder contains animations of the compaction function and overlayed sound files for further analysis of its behaviour
 
-
-
 ---
 ##  Acknowledgements
 Refence author's repository:
