@@ -29,15 +29,16 @@ The repository is sectioned as follows:
 
 [`EscrivaCode`](EscrivaCode/) folder contains python files by original author
 
-[`OriginalCode`](OriginalCode) folder contains our adapted and some original code, in particular associated with producing plots.
+[`OriginalCode`](OriginalCode/) folder contains our adapted and some original code, in particular associated with producing plots.
 
-[`PlotsPaper`](PlotsPaper) folder contains the relevant plots for the paper
+[`Plots`](Plots/) folder contains the relevant plots for the paper
 
-[`PaperPlots.ipynb`](PaperPlots.ipynb) file contains instructions on producing the small sample analysis and disc generation
+[`Sonification`](Sonification/) folder contains animations of the compaction function and overlayed sound files for further analysis of its behaviour
 
-[`src`](src) folder contains the `galaxymorphology` function
+
+
 ---
 ##  Acknowledgements
-
+Refence author's repository:
 - https://github.com/albert-escriva/SPriBHoS
 
