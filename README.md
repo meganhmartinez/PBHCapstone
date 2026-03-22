@@ -25,7 +25,18 @@ They are of particular interest because they may:
 - Provide insight into **early-universe physics and inflation**
 
 ---
+The repository is sectioned as follows:
 
+[`EscrivaCode`](EscrivaCode/) folder contains python files by original author
+
+[`OriginalCode`](OriginalCode) folder contains our adapted and some original code, in particular associated with producing plots.
+
+[`PlotsPaper`](PlotsPaper) folder contains the relevant plots for the paper
+
+[`PaperPlots.ipynb`](PaperPlots.ipynb) file contains instructions on producing the small sample analysis and disc generation
+
+[`src`](src) folder contains the `galaxymorphology` function
+---
 ##  Acknowledgements
 
 - https://github.com/albert-escriva/SPriBHoS
