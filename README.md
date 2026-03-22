@@ -25,6 +25,14 @@ They are of particular interest because they may:
 - Provide insight into **early-universe physics and inflation**
 
 ---
+## Pipeline
+We study the behaviour within the early radiation-dominated universe governed by the Misner-Sharp equations and the FRW metric. Using cosmological perturbation theeory, we set up the system of equation following a perturbation implicitly parametrised by the threshold, below which will disperse and above which will collapse. We then aim to numerically evolve this system with time and study its dynamics. This is the general numerical pipeline:
+- Use the bisection method to study the amplitude of the Compaction Function to find the critical threshold
+- Use a Chebyshev polynomial basis to replace spatial derivatives with discrete matrix multiplication
+- Apply 4th Order Runge-Kutta to evolve the system with time
+- Study subcritical, critical and supercritical cases and understand qualitatively the behaviour associated with each
+
+---
 ## Structure 
 The repository is sectioned as follows:
 
