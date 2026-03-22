@@ -6,6 +6,8 @@ Unlike stellar black holes, PBHs can span a wide range of masses and may play a 
 
 The aim of this project is to explore the **formation, evolution, and consequences** of PBHs through analytical methods and computational modelling.
 
+![Compaction Function GIF](Sonification/compaction2.gif "GIF showing perturbation dispersion and perturbation collapse")
+S
 ---
 
 ## Objectives
