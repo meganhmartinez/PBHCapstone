@@ -44,7 +44,9 @@ The repository is sectioned as follows:
 [`OriginalCode`](OriginalCode/) folder contains our adapted and some original code, in particular associated with producing plots.
 
 [`Plots`](Plots/) folder contains the relevant plots for the paper
-[`Presentation and Thesis`](Presentation_and_Thesis/) folder contains presentation files, large files may require download
+
+[`Presentation and Thesis`](Presentation and Thesis/) folder contains presentation files, large files may require download
+
 [`Sonification`](Sonification/) folder contains animations of the compaction function and overlayed sound files for further analysis of its behaviour (may require download to view)
 
 ---
