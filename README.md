@@ -25,6 +25,7 @@ They are of particular interest because they may:
 - Provide insight into **early-universe physics and inflation**
 
 ---
+## Structure 
 The repository is sectioned as follows:
 
 [`EscrivaCode`](EscrivaCode/) folder contains python files by original author
