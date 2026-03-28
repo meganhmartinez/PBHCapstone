@@ -52,7 +52,7 @@ D,x = chebymatrix(N_cheb,a,b) #we get the chebychev differetiaiton matirx and th
 
 rm_N = 10. #number of initial cosmological horizon that we put the length scale of the perturbtion rk. The long wavelength approximation must be fulfilld! Take rm_N always such that epsilon<0.1
 
-error = 10**(-5)
+error = 10**(-2)
 
 #Minimum and maximum thresholds allowed. Case for radiation fluid
 thresh_min = 2./5.
