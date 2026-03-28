@@ -45,14 +45,14 @@ t = t_initial
 
 
 #Differentiation matrix pseudospectral method
-N_cheb = 200 #Number of chebyshev points used
+N_cheb = 400 #Number of chebyshev points used
 vector_ones = np.array([1. for l in range(N_cheb+1)],dtype=np.float64)
 D,x = chebymatrix(N_cheb,a,b) #we get the chebychev differetiaiton matirx and the grid x
 
 
 rm_N = 10. #number of initial cosmological horizon that we put the length scale of the perturbtion rk. The long wavelength approximation must be fulfilld! Take rm_N always such that epsilon<0.1
 
-error = 10**(-2)
+error = 10**(-5)
 
 #Minimum and maximum thresholds allowed. Case for radiation fluid
 thresh_min = 2./5.
